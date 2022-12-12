@@ -96,12 +96,12 @@ for(let i = 1; i <= 5; i++){
     console.log(i);
 }
 
- let counter = 1;
- while (1 <= 5 ) {
-   console.log("Learning while loop");
-     console.log("Laravel is interesting");
-    counter = counter + 1;
-}
+//  let counter = 1;
+//  while (1 <= 5 ) {
+//    console.log("Learning while loop");
+//      console.log("Laravel is interesting");
+//     counter = counter + 1;
+// }
 
 let count = 1;
 
@@ -110,3 +110,15 @@ do {
     count = count + 1;
 } while (count <= 6);
 
+// Seven Class
+// Arrays
+
+var arrName = ["Sleep", "Code"];
+console.log(arrName);
+
+var arrName2 = [
+    {'task1': 'exercise'},
+    [1, 2, 3, 4],
+    function hello(){console.log("hello")}
+];
+console.log(arrName2);
