@@ -122,3 +122,9 @@ var arrName2 = [
     function hello(){console.log("hello")}
 ];
 console.log(arrName2);
+
+const arrName3 = ["chocolate", "icecream", "milkshake"];
+for(let value of arrName3){
+    value += 1;
+    console.log(value);
+}
