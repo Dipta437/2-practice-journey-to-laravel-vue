@@ -96,12 +96,12 @@ for(let i = 1; i <= 5; i++){
     console.log(i);
 }
 
-//  let counter = 1;
-//  while (1 <= 5 ) {
-//    console.log("Learning while loop");
-//      console.log("Laravel is interesting");
-//     counter = counter + 1;
-// }
+ let counter = 1;
+ while (1 <= 5 ) {
+   console.log("Learning while loop");
+     console.log("Laravel is interesting");
+    counter = counter + 1;
+}
 
 let count = 1;
 
@@ -143,4 +143,15 @@ var person = {
 console.log(person);
 console.log(typeof(person));
 person.greeting();
+
+// Ninth Class
+//  Funtions
+
+function sum(a, b){
+    console.log(a + b);
+    console.log(a * b);
+}
+
+sum(30, 36);
+
 
