@@ -84,3 +84,14 @@ switch (number) {
         console.log("Invalid Value");
         
 }
+
+
+// Sixth Class
+// For loop, While loop, while do loop
+
+for(let i = 1; i <= 5; i++){
+    console.log("For loop learning");
+    console.log("Learning laravel and Vue");
+
+    console.log(i);
+}
