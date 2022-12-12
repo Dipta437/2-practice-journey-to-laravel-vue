@@ -36,6 +36,18 @@ console.log(p * n);
 console.log(p / n);
 console.log(p != n);
 console.log(p == n);
-console.log(p === n);
+console.log(p === 'n');
 console.log(p >= n);
 console.log(p % n);
+
+// Fourth Class
+// Conditional
+
+var test = 10;
+if (test == 5){
+    console.log("This sould be displayed");
+}else if(test == 10){
+    console.log("Play the video");
+}{
+    console.log("Not correct");
+}
