@@ -128,3 +128,19 @@ for(let value of arrName3){
     value += 1;
     console.log(value);
 }
+
+// Eighth Class
+// Object
+
+var person = {
+    name : "Kamrul Hasan dipta",
+    age : 27,
+    town : "Moulvibazar",
+    greeting : function () {
+        console.log("Hello People");
+    }
+}
+console.log(person);
+console.log(typeof(person));
+person.greeting();
+
