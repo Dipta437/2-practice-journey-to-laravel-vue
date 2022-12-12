@@ -96,7 +96,7 @@ for(let i = 1; i <= 5; i++){
     console.log(i);
 }
 
- var counter = 1;
+ let counter = 1;
  while (1 <= 5 ) {
    console.log("Learning while loop");
      console.log("Laravel is interesting");
@@ -109,3 +109,4 @@ do {
     console.log(count);
     count = count + 1;
 } while (count <= 6);
+
